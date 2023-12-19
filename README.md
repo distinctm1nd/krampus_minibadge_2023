@@ -1,5 +1,7 @@
 # Krampus Minibadge Instructions
 
+<img src="krampus_on_roof.png" width="400" />
+
 ## Components
 
 - Main minibadge pcb
@@ -18,4 +20,6 @@
 - 5- 2-pin male 2.54 headers
 - 10k ohm potentiometer
 
-- 
+## Assembly Instructions
+
+
