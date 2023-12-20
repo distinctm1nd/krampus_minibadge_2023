@@ -39,7 +39,13 @@ Start on back of main board:
 - Solder the (0402) 5.1k ohm resistor to R4 (marked red)
 - Solder (0402) 5.1 ohm resistors to R1, R2 and R3 (marked green)
 - Solder (0402) 68 ohm resistor to R5 (marked black)
-- Solder (0603) white LEDs to D1, D2, D3, D4, D5, D6. I recommend side mounting all of these LEDs (except D5) so the light is facing up. I recommend reverse mounting D5 so that the light is shining toward the board. 
+- Solder (0603) white LEDs to D1, D2, D3, D4, D5, D6. These are the only LEDs that don't have a marked color. I recommend side mounting all of these LEDs (except D5) so the light is facing up. I recommend reverse mounting D5 so that the light is shining toward the board.
+
+Move to the front: 
+
+- The tree has red, green and yellow LEDs (0402, marked with associated color) that can be placed where you would like. I recommend starting with one color and place 3-4 of them about equal distance from each other around the tree. Then do the next color and the last. The cathodes of the LEDs are not clearly marked. They are oriented in the same direction so that the cathode is on the bottom side (closest to the bottom of the board). See image below - the red dot at the lower side of each LED is the cathode.
+
+<img src="/images/front_led_orientation.png" width="400" />
 
 
 
