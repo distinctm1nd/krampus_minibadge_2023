@@ -29,3 +29,5 @@
 Start on back of main board:
 
 - Solder the two ICs (TLC555 and CD4017) according to the orientation below. 
+
+<img src="/images/ic_orientation.jpg" width="400" />
