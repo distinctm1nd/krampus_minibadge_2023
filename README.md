@@ -47,6 +47,31 @@ Move to the front:
 
 <img src="/images/front_led_orientation.png" width="400" />
 
+Move to the Krampus cutout and start on the back:
+
+- Solder the (0603) 5.1 ohm resistor (marked 5R1) to R1. Double check the resistor number and don't mix it up with the 5.1k ohm (0603) resistor that is also included.
+- Solder the (0805) UV LED (marked purple) to D1. Reverse mount so that the light is shining toward the board. Note: the pads are for an 0603 size component but I messed up and ordered 0805 so you'll have to make it fit!
+- Second note: If you'd like a different color LED for the Krampus, change R1 accordingly. For instance, if you want a red LED, you'll need a 68 ohm resistor for R1. I only inluded UV in the kit because that is 100% what I was asked for.
+
+Move to the front:
+
+- Solder the potentiometer.
+
+I recommend checking that everything is working correctly before soldering any of the header pins because adjusting some of the components is difficult once they are soldered. 
+
+Attach the Krampus cut-out to the main board with 4 header pins (don't solder immediately). Power the badge with the two pins on the top right corner. If everything is working correctly, the 6 white LEDs on the back of the board and the Krampus LED will light up and stay on. The lights on the tree will begin to blink and you'll be able to adjust the blink rate with the potentiometer. If all of this is working correctly, then solder the remaining headers. If something does not work then continue to troubleshooting: 
+
+## Troubleshooting
+
+- If some of the window LEDs (back of main board) don't work, double check the orientation of the LEDs. Also, double the solder joints of the LEDs and R1, R2 and R3.
+
+- If the LED on the Krampus cutout doesn't work, double the resistor value (verify that you used the 5.1 ohm resistor and not the 5.1k ohm resistor). Also, check solder joints.
+
+- If none of the LEDs on the tree light up, double check R5 (main board) for good solder joints.
+
+- If one or a few of the LEDs on the tree light up but don't flash- double check solder joints on C1 and C2. After this, double check the solder joints on the ICs (make sure there aren't any bridges) and double check R4. If you've checked all of this and it still does not work, you can try removing R4 (make sure the pads are not bridged by removing extra solder) and soldering the (0603) 5.1k ohm resistor (double check value) directly across pins 7 and 8 on the TLC555. If you have a question about this feel free to message me.
+
+- Feel free to message me with any questions.
 
 
 
