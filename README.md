@@ -1,6 +1,5 @@
 # Krampus Minibadge Instructions
 
-<img src="krampus_on_roof.png" width="400" />
 <img src="/images/multicolor_LEDs.jpg" width="400" />
 <img src="/images/red_yellow_LEDs.jpg" width="400" />
 <img src="/images/pcb_front.jpg" width="400" />
@@ -27,4 +26,6 @@
 
 ## Assembly Instructions
 
+Start on back of main board:
 
+- Solder the two ICs (TLC555 and CD4017) according to the orientation below. 
