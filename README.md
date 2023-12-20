@@ -26,8 +26,21 @@
 
 ## Assembly Instructions
 
+Double check components against size, indicated color, and printed info on component (where available). I included extra of the 0402 components so don't use count to determine where they go. 
+
 Start on back of main board:
 
-- Solder the two ICs (TLC555 and CD4017) according to the orientation below. 
+- Solder the two ICs (TLC555 and CD4017) according to the orientation below. Note that there is a white line that marks the location of pin 1 for each of them.  
 
 <img src="/images/ic_orientation.jpg" width="400" />
+
+- Solder the (0603) 0.1 uF capacitor to C1 (marked orange, orientation doesn't matter)
+- Solder the (0603) 22 uF capacitor to C2 (marked blue, orientation doesn't matter)
+- Solder the (0402) 5.1k ohm resistor to R4 (marked red)
+- Solder (0402) 5.1 ohm resistors to R1, R2 and R3 (marked green)
+- Solder (0402) 68 ohm resistor to R5 (marked black)
+- Solder (0603) white LEDs to D1, D2, D3, D4, D5, D6. I recommend side mounting all of these LEDs (except D5) so the light is facing up. I recommend reverse mounting D5 so that the light is shining toward the board. 
+
+
+
+
