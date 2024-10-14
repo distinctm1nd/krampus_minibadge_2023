@@ -10,8 +10,8 @@
 
 - Main minibadge pcb
 - Krampus add-on pcb
-- 0.1uF Capacitor (0603)
-- 22uF Capacitor (0603)
+- 0.1uF Capacitor (0603) - marked orange
+- 22uF Capacitor (0603) - marked blue
 - 6- smd white LEDs (0603) - these are unmarked
 - A mix of at least 10 (should have extras) red, yellow, green LEDs (0402) - these are marked with their associated color
 - 3- 5.1 ohm resistors (0402) - these are marked green and you should have an extra
@@ -50,7 +50,7 @@ Move to the Krampus cutout and start on the back:
 
 - Solder the (0603) 5.1 ohm resistor (marked 5R1) to R1. Double check the resistor number and don't mix it up with the 5.1k ohm (0603) resistor that is also included.
 - Solder the (0805) UV LED (marked purple) to D1. Reverse mount so that the light is shining toward the board. Note: the pads are for an 0603 size component but I messed up and ordered 0805 so you'll have to make it fit!
-- Second note: If you'd like a different color LED for the Krampus, change R1 accordingly. For instance, if you want a red LED, you'll need a 68 ohm resistor for R1. I only inluded UV in the kit because that is 100% what I was asked for.
+- Second note: If you'd like a different color LED for the Krampus, change R1 accordingly. For instance, if you want a red LED, you'll need a 68 ohm resistor for R1. 
 
 Move to the front:
 
