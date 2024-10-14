@@ -16,7 +16,6 @@
 - A mix of at least 10 (should have extras) red, yellow, green LEDs (0402) - these are marked with their associated color
 - 3- 5.1 ohm resistors (0402) - these are marked green and you should have an extra
 - 5.1k ohm resistor (0402) - marked red
-- 5.1k ohm resistor (0603)
 - UV LED (0805) - marked purple
 - 5.1 ohm resistor (0603)
 - TLC555 timer
@@ -59,17 +58,7 @@ Move to the front:
 
 I recommend checking that everything is working correctly before soldering any of the header pins because adjusting some of the components is difficult once they are soldered. 
 
-Attach the Krampus cut-out to the main board with 4 header pins (don't solder immediately). Power the badge with the two pins on the top right corner. If everything is working correctly, the 6 white LEDs on the back of the board and the Krampus LED will light up and stay on. The lights on the tree will begin to blink and you'll be able to adjust the blink rate with the potentiometer. If all of this is working correctly, then solder the remaining headers. If something does not work then continue to troubleshooting: 
-
-## Troubleshooting
-
-- If some of the window LEDs (back of main board) don't work, double check the orientation of the LEDs. Also, double the solder joints of the LEDs and R1, R2 and R3.
-
-- If the LED on the Krampus cutout doesn't work, double the resistor value (verify that you used the 5.1 ohm resistor and not the 5.1k ohm resistor). Also, check solder joints.
-
-- If none of the LEDs on the tree light up, double check R5 (main board) for good solder joints.
-
-- If one or a few of the LEDs on the tree light up but don't flash- double check solder joints on C1 and C2. After this, double check the solder joints on the ICs (make sure there aren't any bridges) and double check R4. If you've checked all of this and it still does not work, you can try removing R4 (make sure the pads are not bridged by removing extra solder) and soldering the (0603) 5.1k ohm resistor (double check value) directly across pins 7 and 8 on the TLC555. If you have a question about this feel free to message me.
+Attach the Krampus cut-out to the main board with 4 header pins (don't solder immediately). Power the badge with the two pins on the top right corner. If everything is working correctly, the 6 white LEDs on the back of the board and the Krampus LED will light up and stay on. The lights on the tree will begin to blink and you'll be able to adjust the blink rate with the potentiometer. If all of this is working correctly, then solder the remaining headers. 
 
 - Feel free to message me with any questions.
 
