@@ -16,7 +16,7 @@
 - A mix of at least 10 (should have extras) red, yellow, green LEDs (0402) - these are marked with their associated color
 - 3- 5.1 ohm resistors (0402) - these are marked green and you should have an extra
 - 5.1k ohm resistor (0402) - marked red
-- UV LED (0805) - marked purple
+- UV LED (0805) - unmarked
 - 5.1 ohm resistor (0603)
 - TLC555 timer
 - CD4017 decade counter
