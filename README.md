@@ -48,7 +48,7 @@ Move to the front:
 
 Move to the Krampus cutout and start on the back:
 
-- Solder the (0603) 15 ohm resistor (marked 5R1) to R1. Double check the resistor number and don't mix it up with the 5.1k ohm (0603) resistor that is also included.
+- Solder the (0603) 15 ohm resistor to R1. Double check the resistor number and don't mix it up with the 5.1k ohm (0603) resistor that is also included.
 - Solder the (0805) UV LED (marked purple) to D1. Reverse mount so that the light is shining toward the board. Note: the pads are for an 0603 size component but I messed up and ordered 0805 so you'll have to make it fit!
 - Second note: If you'd like a different color LED for the Krampus, change R1 accordingly. For instance, if you want a red LED, you'll need a 68 ohm resistor for R1. 
 
