@@ -18,6 +18,7 @@
 - 5.1k ohm resistor (0402) - marked red
 - UV LED (0805) - unmarked
 - 15 ohm resistor (0603)
+- 68 ohm resistor (0402) - marked black
 - TLC555 timer
 - CD4017 decade counter
 - 5- 2-pin male 2.54 headers
